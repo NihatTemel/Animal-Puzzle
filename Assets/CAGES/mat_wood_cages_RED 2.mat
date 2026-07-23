@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: mat_wood_cages_RED 2
-  m_Shader: {fileID: 4800000, guid: 30a56ab657b774ec49e5f236913e3060, type: 3}
+  m_Shader: {fileID: 4800000, guid: fc86b781adef8f5469f700b6372b5b09, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -72,11 +72,11 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RampSmooth: 0.122
-    - _RampThreshold: 0.437
+    - _RampSmooth: 0.449
+    - _RampThreshold: 0.609
     - _Smoothness: 0.2
     - _SmoothnessTextureChannel: 0
-    - _SpecSmooth: 0.406
+    - _SpecSmooth: 1
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
@@ -86,7 +86,7 @@ Material:
     - _Color: {r: 0.18382876, g: 0.764151, b: 0.3227292, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HColor: {r: 0.8962264, g: 0.8962264, b: 0.8962264, a: 1}
-    - _SColor: {r: 0.3490566, g: 0.3490566, b: 0.3490566, a: 1}
+    - _SColor: {r: 0.11158023, g: 0.23584908, b: 0.10346209, a: 0.7372549}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

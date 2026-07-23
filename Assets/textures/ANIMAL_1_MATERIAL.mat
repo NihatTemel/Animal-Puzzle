@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ANIMAL_1_MATERIAL
-  m_Shader: {fileID: 4800000, guid: 30a56ab657b774ec49e5f236913e3060, type: 3}
+  m_Shader: {fileID: 4800000, guid: fc86b781adef8f5469f700b6372b5b09, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -82,7 +82,7 @@ Material:
     - _RampThreshold: 0.569
     - _Smoothness: 0.2
     - _SmoothnessTextureChannel: 0
-    - _SpecSmooth: 1
+    - _SpecSmooth: 0.732
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _TexLod: 5
@@ -98,6 +98,6 @@ Material:
     - _OutlineColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _OutlineOffset: {r: 0, g: 0, b: 0, a: 0}
     - _SColor: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0.4745098}
-    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SpecColor: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: mat_wood_cages_RED 4
-  m_Shader: {fileID: 4800000, guid: 30a56ab657b774ec49e5f236913e3060, type: 3}
+  m_Shader: {fileID: 4800000, guid: fc86b781adef8f5469f700b6372b5b09, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -86,7 +86,7 @@ Material:
     - _Color: {r: 0.32665777, g: 0, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HColor: {r: 0.8962264, g: 0.8962264, b: 0.8962264, a: 1}
-    - _SColor: {r: 0.195, g: 0.195, b: 0.195, a: 1}
+    - _SColor: {r: 0.10807055, g: 0.10196078, b: 0.26666668, a: 0.7019608}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: wood_texture
-  m_Shader: {fileID: 4800000, guid: 30a56ab657b774ec49e5f236913e3060, type: 3}
+  m_Shader: {fileID: 4800000, guid: fc86b781adef8f5469f700b6372b5b09, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -76,7 +76,7 @@ Material:
     - _RampThreshold: 0.523
     - _Smoothness: 0.2
     - _SmoothnessTextureChannel: 0
-    - _SpecSmooth: 1
+    - _SpecSmooth: 0.356
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
@@ -86,7 +86,7 @@ Material:
     - _Color: {r: 0.72156864, g: 0.38911417, b: 0.11764704, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HColor: {r: 0.8962264, g: 0.8962264, b: 0.8962264, a: 1}
-    - _SColor: {r: 0.19499996, g: 0.19499996, b: 0.19499996, a: 0.80784315}
-    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SColor: {r: 0.2924528, g: 0.22160418, b: 0.15864186, a: 0.7372549}
+    - _SpecColor: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

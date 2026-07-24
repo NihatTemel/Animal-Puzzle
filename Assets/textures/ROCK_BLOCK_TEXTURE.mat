@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ROCK_BLOCK_TEXTURE
-  m_Shader: {fileID: 4800000, guid: fc86b781adef8f5469f700b6372b5b09, type: 3}
+  m_Shader: {fileID: 4800000, guid: e37421856bf0abf40b88bc8440140c16, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -45,7 +45,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 607bb06013fc5c94bb8649571fb3c661, type: 3}
-        m_Scale: {x: 0.7014862, y: 0.7014862}
+        m_Scale: {x: 0.6936769, y: 0.8118101}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
@@ -87,7 +87,7 @@ Material:
     - _ZWrite: 1
     - __dummy__: 0
     m_Colors:
-    - _Color: {r: 0.7735849, g: 0.73470014, b: 0.49261302, a: 0.6117647}
+    - _Color: {r: 0.9056604, g: 0.87617767, b: 0.6963332, a: 0.7529412}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HColor: {r: 0.785, g: 0.785, b: 0.785, a: 1}
     - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.6}

@@ -82,7 +82,7 @@ Material:
     - _RampThreshold: 0.316
     - _Smoothness: 0.2
     - _SmoothnessTextureChannel: 0
-    - _SpecSmooth: 1
+    - _SpecSmooth: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _TexLod: 5
